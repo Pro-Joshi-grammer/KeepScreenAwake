@@ -25,9 +25,14 @@ Dependencies: PyAutoGUI Module
 ## Method 2:Keyboard Simulation (Keyboard Module)
 Instead of moving the mouse, this version presses Shift, Control, Caps Lock, and Alt in rotation every 25 seconds. This keeps the system awake without affecting your work.
 The shift control CapsLock and Alt are added in consideration that it doesent effect the installation of packages.If any of the button interrupts your work or causes disturbencies you can update it in the list keys.
+
 Dependencies: Keyboard Module
 
+
+
 People working in companies can use as your afk time is monitored 😉
+
+
 
 
 
