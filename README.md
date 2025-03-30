@@ -11,8 +11,8 @@ To solve this, I created a Python script using the pyautogui module. This script
 Additionally, the keepawake function has a parameter for hours, which is set to three by default, but you can change it to suit your needs.
 
 There are **two versions** of this script:  
-1. **Mouse Movement Method (Uses `pyautogui`)**  ==> Mouse_awake.py
-2. **Keyboard Simulation Method (Uses `keyboard`)**  ==>Keyboard_awake.py
+1. **Mouse Movement Method (Uses `pyautogui`)**  ==> Keep_Screen_Awake_Mouse.py
+2. **Keyboard Simulation Method (Uses `keyboard`)**  ==>Keep_Screen_Awake_Keyboard.py
 
 Credits:**Made with the help of ChatGPT.**  
 
