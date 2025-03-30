@@ -28,6 +28,9 @@ The shift control CapsLock and Alt are added in consideration that it doesent ef
 Dependencies: Keyboard Module
 
 People working in companies can use as your afk time is monitored 😉
+
+
+
 ![SoGoodWinkGIF](https://github.com/user-attachments/assets/4e006bf5-5720-4eb4-9411-cc501c057cd9)
 
 
